@@ -96,20 +96,5 @@ Enabling this might cause slower download parsing but makes orgainsing music eas
 Format of media you want your final music download to be in. ( Do not include '.' in it !). This setting gets ignore while using raw media download option
 
 
-# Issues
-Decode error : If you are getting into this error, your account might have got restricted. Wait some time or try dirrerent acc.
-The application may crash frequently as there is no proper exception handling yet. You can help by opening a new issue wih error message displayed on your console window after the application misbehaves.
-The readme also needs to be written properly.
 
-# TODOS
- - Synced lyrics downloads
- - Improve UI/UX ( Suggestions needed by users )
- - Refactor code
- - ....
- 
-# Contributing/Supporting
-Current readme can be hard to understand due to improprt emglish. You can improve user experience by improving it.
-You can write code to include additional feature or bug fixes or make a issue regarding bugs and features or just spread the work about the application :)
-If you want to support financially, you can visit [Here](https://github.com/casualsnek/casualsnek) and support through opencollective or BTC
-
-If you like the project, show your support by giving it a star :) !
+If you like the project, show your support by giving a star to the Original Repo :) !
